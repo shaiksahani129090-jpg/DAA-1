@@ -1,0 +1,1 @@
+The Max-Heap Sort algorithm was successfully implemented using a max-heap. The elements were sorted correctly, and its performance was analyzed. Heap Sort provides efficient sorting with a time complexity of O(n log n).

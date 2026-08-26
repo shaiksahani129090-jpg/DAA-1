@@ -1,1 +1,0 @@
-This practical implements the factorial of a number using an iterative approach in Python. It takes a non-negative integer as input from the user. The program calculates the factorial by multiplying numbers from 1 to the given value. It avoids recursion by using a loop, making the implementation simple and efficient. The final factorial value is displayed as the output.

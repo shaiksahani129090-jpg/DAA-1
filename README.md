@@ -19,3 +19,16 @@ DAA.PRATICAL_7 Summary:- The Making Change Problem was solved using Dynamic Prog
 Conclusion:- Dynamic Programming helps solve the problem efficiently by storing previous results. The program has O(n × amount) time complexity and O(amount) space complexity.
 About
 
+DAA.PRACTICAL_5
+Summary:-
+This program solves the 0/1 Knapsack Problem using Dynamic Programming. It finds the maximum value of items that can fit within the given capacity.
+
+Conclusion:-
+Dynamic Programming avoids repeated calculations and helps find the maximum possible value efficiently.
+
+DAA.PRACTICAL_6
+Summary:-
+This program finds the best way to multiply matrices with the minimum number of operations using Dynamic Programming.
+
+Conclusion:-
+Dynamic Programming helps reduce repeated calculations and gives the minimum multiplication cost efficiently.

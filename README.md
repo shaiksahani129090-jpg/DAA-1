@@ -32,8 +32,8 @@ This program finds the best way to multiply matrices with the minimum number of 
 
 Conclusion:-
 Dynamic Programming helps reduce repeated calculations and gives the minimum multiplication cost efficiently.
-PRACTICAL -8
 
+PRACTICAL -8
 Summary
 Graphs are useful data structures for representing relationships between objects using vertices (nodes) and edges. Two fundamental graph-searching techniques are Depth-First Search (DFS) and Breadth-First Search (BFS). DFS explores a graph by going as deep as possible along one path before backtracking, while BFS explores all neighboring vertices level by level. Both algorithms can be implemented using adjacency matrices or adjacency lists. DFS generally uses a stack or recursion, whereas BFS uses a queue. These techniques are widely used in path finding, network traversal, connectivity checking, and many other computer science applications.
 
